@@ -1,0 +1,60 @@
+
+.favorites img {
+    width: 200px;
+    height: auto;
+}
+
+h1.about {
+    color: #ffffff;
+}
+.holder {
+    width: 70%;
+    margin: 0 auto;
+    background: cadetblue;;
+    padding: 20px;
+}
+h1.about {
+    color: #ffffff;
+    text-align: center;
+    margin-top: -1px;
+    font-size: 27pt;
+}
+.coursesClass, .favorites, .images, .neighbor {
+    border: 1px dotted white;
+    padding: 5px;
+    margin-bottom: 10px;
+    clear: both;
+}
+.tvs {
+    clear: both;
+    overflow: hidden;
+}
+.movies, .books {
+    clear: both;
+}
+h3 {
+    color: #fff;
+    font-size: 19pt;
+}
+.movies ul li, .books ul li {
+    list-style: none;
+    width: 33%;
+    float: left;
+}
+.tvs ul li {
+    width: 33%;
+    margin: 0 auto;
+    float: left;
+    list-style: none;
+    
+}
+.happy img {
+    width: 200px;
+   
+    float: left;
+    padding: 0 70px;
+}
+.decription
+{
+    color: mediumspringgreen;
+}
